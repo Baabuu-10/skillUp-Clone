@@ -1,0 +1,44 @@
+[
+    {
+        "image": "https://pub-3ea46b7dcfbf4dd9828bfd06c1989ace.r2.dev/cce15a85-373b-47f2-b2b5-ebd62994d89e.jpg",
+        "name": "Mohamed Sharif",
+        "text": "CEO & Board Lead"
+    },
+
+    {
+        "image": "https://pub-3ea46b7dcfbf4dd9828bfd06c1989ace.r2.dev/035bc423-b7a1-4518-a134-5ebe8d798370.jpg",
+        "name": "Mohamed Hassan",
+        "text": "CTO"
+    },
+
+    {
+        "image": "https://pub-3ea46b7dcfbf4dd9828bfd06c1989ace.r2.dev/e1dbe5fa-ea7b-4d48-8743-4b3230ad4669.jpg",
+        "name": "Abdikarim Ismail",
+        "text": "Software Engineer"
+    },
+
+
+    {
+        "image": "https://pub-3ea46b7dcfbf4dd9828bfd06c1989ace.r2.dev/cf49e80e-41b5-4e95-abd3-931c2e79ee5d.jpg",
+        "name": "Ali Omar",
+        "text": "Software Engineer"
+    },
+
+    {
+        "image": "https://pub-3ea46b7dcfbf4dd9828bfd06c1989ace.r2.dev/5d320320-9b0c-4bc4-977f-1f3fb9fee530.jpeg",
+        "name": "Abdirahman Abdullahi",
+        "text": "App Developer"
+    },
+
+    {
+        "image": "https://pub-3ea46b7dcfbf4dd9828bfd06c1989ace.r2.dev/5cd45cbe-7ea4-4e98-9a01-8877b871f594.jpeg",
+        "name": "suhayb mahamud",
+        "text": "UI/UX designer"
+    },
+
+    {
+        "image": "https://pub-3ea46b7dcfbf4dd9828bfd06c1989ace.r2.dev/58f04ed7-7e11-4c9f-bbd0-a60e81f7e70e.jpg",
+        "name": "Abdullahi Mohamed",
+        "text": "Lead Engineer"
+    }
+]
